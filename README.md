@@ -82,7 +82,7 @@ modern-sudoku/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/modern-sudoku.git
+git clone https://github.com/dev-adityap/modern-sudoku.git
 ```
 
 ### Open the project
