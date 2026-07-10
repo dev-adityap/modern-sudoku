@@ -6,7 +6,7 @@ A modern, responsive Sudoku web application built using **HTML**, **CSS**, and *
 
 ## 🌐 Live Demo
 
-👉 **Live Demo:** https://your-project.vercel.app
+👉 **Live Demo:** https://modern-sudoku-lovat.vercel.app/
 
 ---
 
