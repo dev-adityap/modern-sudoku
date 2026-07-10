@@ -137,9 +137,9 @@ Feel free to fork the repository and submit a pull request.
 
 **Aditya Panna**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://your-portfolio.vercel.app *(optional)*
+- GitHub: https://github.com/dev-adityap
+- LinkedIn: https://linkedin.com/in/aditya-panna-0861662a3
+
 
 ---
 
