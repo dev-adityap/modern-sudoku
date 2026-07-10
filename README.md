@@ -16,11 +16,11 @@ A modern, responsive Sudoku web application built using **HTML**, **CSS**, and *
 
 ### ☀️ Light Mode
 
-![Light Mode](assets/screenshots/light-mode.png)
+![Light Mode](assets/screenshots/home-light.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode](assets/screenshots/dark-mode.png)
+![Dark Mode](assets/screenshots/home-dark.png)
 
 ---
 
